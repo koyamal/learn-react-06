@@ -2,4 +2,4 @@
 
 Created with CodeSandbox
 
-## Learn Atomic Design
+## Use Context for managiment of global state

@@ -3,6 +3,7 @@ import { Input } from "../atoms/input/Input";
 import styled from "styled-components";
 
 export const SearchInput = () => {
+  console.log("SearchInput");
   return (
     <SContainer>
       <Input placeholder="Input Search word" />
